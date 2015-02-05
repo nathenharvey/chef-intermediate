@@ -15,3 +15,7 @@
 * Add a slide about grabbing the london-2015 branch of the chef-repo
 * Add slides for AWS-based lab, including bit.ly to a gist
 * Hide the Cloudshare lab setup
+* Add a review of multiphase execution
+  * cribbed from fundamentals
+  * befor talking about use_inline_resources
+
