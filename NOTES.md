@@ -1,4 +1,6 @@
 * TODO:  chefspec
+* TODO:  update version
+* TODO:  Update and hide Nathen's intro slide
 
 52.0.123.178 - node1
 
