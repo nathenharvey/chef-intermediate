@@ -39,3 +39,12 @@
 * Add a Test-Driven Infrastructure with Chef slide
 * Update some URLs in the further resources section
 * Update the ChefConf image
+* Update the ChefSpec code
+* Update verstion to 1.1.6
+* Update Nathen's intro slideA
+* from irb to pry
+* Add a slide for chef-client -l debug
+* Update the url of the report handler
+* Update George's email
+* Add notes about not creating a default_action for the lwrp
+* Restore rubocop workflow stuff
