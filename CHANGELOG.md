@@ -18,4 +18,24 @@
 * Add a review of multiphase execution
   * cribbed from fundamentals
   * befor talking about use_inline_resources
-
+* Skip the chef-shell section
+* Add the ohai plugin recipe to the web role, not directly to the run list.
+* Add instructor notes suggesting to go through the ohai logic in irb
+* Skip the chef-shell debugging of ohai plugins
+* Add link to docs that describe lazy evaluation
+* Upgrade to version 2.0.1 of the ohai cookbook
+* use `chef` to generate the email_handler cookbook
+* chef generate an attribute file for the email_handler cookbook
+* use `chef` to generate the mailx cookbook
+* Update formatting of slide showing cookbooks/email_handler/metadata.rb
+* Upgrade postfix cookbook to version 3.6.2
+* Skip the installation of foodcritic, it comes with ChefDK
+* Update the way to skip foodcritic rules:  put them in a .foodcritic
+* Skip the installation of rubocop, it comes with ChefDK
+* Update rubocop output
+* Remove auto-gen-config options from rubocop, it seems to be broken
+* Skip the installation of chefspec, it comes with ChefDK
+* Make the spec directory before writing any files into it
+* Add a Test-Driven Infrastructure with Chef slide
+* Update some URLs in the further resources section
+* Update the ChefConf image
