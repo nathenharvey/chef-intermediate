@@ -1,3 +1,5 @@
+## v.1.1.6
+
 * Update Nathen's Intro slide
 * Unhide Nathen's Intro slide
 * Rename the webserver role s/webserver/web
@@ -74,3 +76,21 @@
 * "Exercise - " to "Exercise: "
 * Single quotes everywhere possible 
 * Updatee the PDF
+
+
+## v.1.1.5
+
+## v.1.1.4
+
+## v.1.1.3
+
+## v.1.1.2
+
+## v.1.1.1
+
+## v.1.1.0
+
+
+
+
+
