@@ -48,3 +48,29 @@
 * Update George's email
 * Add notes about not creating a default_action for the lwrp
 * Restore rubocop workflow stuff
+* Update the Copyright to 2015
+* Remove chef-shell from the agenda
+* Add info about which ami to use for the lab environments
+* Skip the step-by-step walk through of setting up hosted, this is an intermediate class
+* Add an exercise to uplaod everything to Hosted Chef
+  * skip the slides that show how to do this
+* Skip the slide that shows how to bootstrap the node
+* Skip the 'what just happened?' slide after bootstrapping
+* update the chef version on the node
+* skip the 'ssl problem?' slide
+* skip the 'SSL Certificate Validartion' slide, this was fixed in Chef 12.0.0
+* skip the 'What’s new in Ohai 7?' slide
+* skip the 'Special Upgrading Note' note for ohai
+* ohai will be at version 8.0.0 on teh node
+* ChefSpec::Runner is deprecated, use  ChefSpec::ServerRunner instead
+* Don't show students how to fix the motd ChefSpec error
+* Add a default mailx-package attribure
+* Fix the cover art for the Learning Chef book
+* Better picture for Test-Driven Infrastructure
+* Re-order the O'Reilly books
+  * Learning
+  * Test-Driven
+  * Customizing
+* "Exercise - " to "Exercise: "
+* Single quotes everywhere possible 
+* Updatee the PDF
